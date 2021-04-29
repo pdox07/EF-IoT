@@ -1,3 +1,5 @@
+# IoT Based Smart Energy Efficient System For Off Grid Houses
+
 #### To run the project
 
 chmod +x start.sh
